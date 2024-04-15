@@ -1,0 +1,5 @@
+sample	read1	read2	lane	platform
+HG001	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7035_HG001_sample/NIST7035_TAAGGCGA_L001_R1_001.fastq	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7035_HG001_sample/NIST7035_TAAGGCGA_L001_R2_001.fastq	1	Illumina
+HG001	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7035_HG001_sample/NIST7035_TAAGGCGA_L002_R1_001.fastq	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7035_HG001_sample/NIST7035_TAAGGCGA_L002_R2_001.fastq	2	Illumina
+HG002	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7086_HG002_sample/NIST7086_CGTACTAG_L001_R1_001.fastq	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7086_HG002_sample/NIST7086_CGTACTAG_L001_R2_001.fastq	1	Illumina
+HG002	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7086_HG002_sample/NIST7086_CGTACTAG_L002_R1_001.fastq	/home/Data/Dev/pdx5/Data/Data/Sequences/NIST7086_HG002_sample/NIST7086_CGTACTAG_L002_R2_001.fastq	2	Illumina
